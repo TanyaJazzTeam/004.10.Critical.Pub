@@ -66,7 +66,7 @@ And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
 ### Installation
-![Ilos](https://lh3.googleusercontent.com/proxy/DDV8a7sLIWurhJtW8Ego9bq-JlwpfFFoR0tkLJQKKYXEXoWHB6ZUP5jGKD2VcYt3z1QVsgcn6L3GoU1ns8m9fvi3U51GzddA70ZUMHgzHvjl4-i7YOJY9cShBPrfjUhMQhxaJ97WFBp612XmjMXVGypfGkiBarN4PWxhiHkiYYNW7HGbtTpOcyt9GQ4Q23C2noxLTWFXZMcQZhRpQA_qzu2n6_H6CPViBnhSHpEl4JZAPaGCSJqgZg)
+![Ilos](https://avatars.mds.yandex.net/get-zen_doc/1937051/pub_5eb5dbf2ce86a8785f6dd6c7_5eb5df2f9f339d1166717b83/scale_1200)
 
 Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
 
